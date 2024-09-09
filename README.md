@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @m-haghighi
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Nureal Network
-- 💞️ I’m looking to collaborate on solving problems related to Data Science
 - 📫 How to reach me m.haghighi.m@gmail.com
 
 <!---
